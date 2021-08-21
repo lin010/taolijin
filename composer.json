@@ -1,0 +1,15 @@
+{
+  "name": "lin010/taolijin",
+  "description": "淘宝、京东联盟礼金应用分装接口",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "林毅麟",
+      "email": "746027209@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  }
+}
